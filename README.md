@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# JeopardyGame
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+JeopardyGame is a React-based web application that brings the classic Jeopardy! game to your browser. The project leverages the Jservice API to fetch Jeopardy trivia questions, allowing users to enjoy the challenge and excitement of the iconic quiz show.
 
-## Available Scripts
+## Deployment link: https://657981f814fe617e19e83054--calm-brioche-9481a6.netlify.app/
 
-In the project directory, you can run:
+## Technologies Used
 
-### `npm start`
+- React: A JavaScript library for building user interfaces.
+- Jservice API: Provides access to Jeopardy trivia questions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How to Use
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Clone the repository:
 
-### `npm test`
+   ```bash
+   git clone https://github.com/your-username/JeopardyGame.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## How to start: Start to project use these commands
 
-### `npm run build`
+npm i
+npm start 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/Kurbanbek02/JeopardyGameFinal/assets/81088533/362a3207-6a7c-4319-88ef-f70b3547d200)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![image](https://github.com/Kurbanbek02/JeopardyGameFinal/assets/81088533/cc61eef2-486c-40c0-9663-34ecbbb6b168)
 
-### `npm run eject`
+![image](https://github.com/Kurbanbek02/JeopardyGameFinal/assets/81088533/bd710a7f-d06e-4545-927b-d4fecca76b63)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://github.com/Kurbanbek02/JeopardyGameFinal/assets/81088533/4ea93634-ba5b-4c52-9e25-b605a2cdf3ab)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://github.com/Kurbanbek02/JeopardyGameFinal/assets/81088533/9a2cb016-a152-4d36-bad9-23a0a113978e)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![image](https://github.com/Kurbanbek02/JeopardyGameFinal/assets/81088533/b134609f-7f9d-47b7-ac45-880c7af34247)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
